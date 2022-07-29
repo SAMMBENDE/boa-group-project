@@ -2,6 +2,7 @@ import React from "react"
 
 const Main = () => {
 	return (
+		
 		<div className="flex justify-center items-center flex-col pt-40 text-center font-bold lg:text-8xl text-6xl space-y-2">
 			<h1 className="text-gray-900 pb-10">
 				Best of Africa <br/><span className="text-blue-500">Home</span> {" "}
@@ -11,6 +12,8 @@ const Main = () => {
 				<h1 className="text-center">DWWM AFPA 2022</h1>
 			</div>
 		</div>
+
+		
 	)
 }
 export default Main
